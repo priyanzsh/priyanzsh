@@ -11,7 +11,7 @@
   ✨ Learn more about me on [priyanzsh.github.io](https://priyanzsh.github.io). <br>
   💌 You can reach me via email at [priyanzsh@hotmail.com](mailto:priyanzsh@hotmail.com).
 </div>
-  <a href="https://twitter.com/oyepriyansh" target="blank"><img align="center" src="https://priyan.sh.gg/assets/github/readme/twitter.svg" alt="Priyansh's X handle" title="X"/></a>
+  <a href="https://twitter.com/priyanzsh_" target="blank"><img align="center" src="https://priyan.sh.gg/assets/github/readme/twitter.svg" alt="Priyansh's X handle" title="X"/></a>
   <a href="https://linkedin.com/in/priyanzsh" target="blank"><img align="center" src="https://oyepriyansh.pages.dev/assets/github/readme/linkedin.svg" alt="Priyansh's Linkedin handle" title="Linkedin"/></a> 
   <a href="https://instagram.com/priyanzsh" target="blank"><img align="center" src="https://oyepriyansh.pages.dev/assets/github/readme/instagram.svg" alt="Priyansh's Instagram handle" title="Instagram"/></a>
   <a href="https://discord.com/invite/AeAjegXn6D" target="blank"><img align="center" src="https://oyepriyansh.pages.dev/assets/github/readme/discord.svg" alt="DevArna Discord invite" title="Discord"/></a>
