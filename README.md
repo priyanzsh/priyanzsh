@@ -50,10 +50,13 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-![pr_opened](https://oyepriyansh.pages.dev/i/octicons/PullRequestOpened.svg) [#5](undefined) **|** [priyanzsh/priyanzsh.github.io](https://github.com/priyanzsh/priyanzsh.github.io)<br>
-![issue_closed](https://oyepriyansh.pages.dev/i/octicons/IssueClosed.svg) [#262](https://github.com/priyanzsh/DevProfiles/issues/262) **|** [priyanzsh/DevProfiles](https://github.com/priyanzsh/DevProfiles)<br>
-![issue_closed](https://oyepriyansh.pages.dev/i/octicons/IssueClosed.svg) [#284](https://github.com/priyanzsh/DevProfiles/issues/284) **|** [priyanzsh/DevProfiles](https://github.com/priyanzsh/DevProfiles)<br>
-![issue_opened](https://oyepriyansh.pages.dev/i/octicons/IssueOpened.svg) [#76](https://github.com/is-a-software/is-a-software/issues/76) **|** [is-a-software/is-a-software](https://github.com/is-a-software/is-a-software)<br>
+![issue_closed](https://oyepriyansh.pages.dev/i/octicons/IssueClosed.svg) [#84](https://github.com/is-a-software/is-a-software/issues/84) **|** [is-a-software/is-a-software](https://github.com/is-a-software/is-a-software)<br>
+![issue_opened](https://oyepriyansh.pages.dev/i/octicons/IssueOpened.svg) [#84](https://github.com/is-a-software/is-a-software/issues/84) **|** [is-a-software/is-a-software](https://github.com/is-a-software/is-a-software)<br>
+![issue_closed](https://oyepriyansh.pages.dev/i/octicons/IssueClosed.svg) [#7](https://github.com/priyazsh/priyazsh.github.io/issues/7) **|** [priyazsh/priyazsh.github.io](https://github.com/priyazsh/priyazsh.github.io)<br>
+![issue_opened](https://oyepriyansh.pages.dev/i/octicons/IssueOpened.svg) [#7](https://github.com/priyazsh/priyazsh.github.io/issues/7) **|** [priyazsh/priyazsh.github.io](https://github.com/priyazsh/priyazsh.github.io)<br>
+![pr_opened](https://oyepriyansh.pages.dev/i/octicons/PullRequestOpened.svg) [#5](undefined) **|** [priyazsh/priyazsh.github.io](https://github.com/priyazsh/priyazsh.github.io)<br>
+![issue_closed](https://oyepriyansh.pages.dev/i/octicons/IssueClosed.svg) [#262](https://github.com/priyazsh/DevProfiles/issues/262) **|** [priyazsh/DevProfiles](https://github.com/priyazsh/DevProfiles)<br>
+![issue_closed](https://oyepriyansh.pages.dev/i/octicons/IssueClosed.svg) [#284](https://github.com/priyazsh/DevProfiles/issues/284) **|** [priyazsh/DevProfiles](https://github.com/priyazsh/DevProfiles)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
